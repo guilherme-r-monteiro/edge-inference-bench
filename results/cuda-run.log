@@ -1,0 +1,11 @@
+threads_1 decode=264.6 prefill=8933.5
+threads_2 decode=264.9 prefill=9035.6
+threads_4 decode=265.0 prefill=9037.9
+threads_8 decode=264.1 prefill=8917.6
+threads_12 decode=264.5 prefill=9007.1
+quant_q4_k_m decode=265.6 prefill=8996.5
+quant_q8_0 decode=233.9 prefill=10905.1
+load_none decode=226.1 prefill=2944.0
+load_mmap decode=226.2 prefill=2907.6
+load_direct_io decode=222.4 prefill=2916.6
+long_session decode=255.4 prefill=8992.6
